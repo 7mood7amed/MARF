@@ -1,0 +1,57 @@
+{
+  "inv_01_demo_supplies_en.png": {
+    "vendor_name": "Demo Supplies W.L.L.",
+    "invoice_number": "INV-2026-0412",
+    "invoice_date": "2026-10-03",
+    "currency": "BHD",
+    "subtotal": 450.0,
+    "vat_amount": 45.0,
+    "total": 495.0,
+    "confidence": 0.96,
+    "notes": null
+  },
+  "inv_02_arabic_electrical_ar.png": {
+    "vendor_name": "شركة العينة للكهرباء",
+    "invoice_number": "7781",
+    "invoice_date": "2026-10-07",
+    "currency": "BHD",
+    "subtotal": 1200.0,
+    "vat_amount": 120.0,
+    "total": 1320.0,
+    "confidence": 0.96,
+    "notes": null
+  },
+  "inv_03_demo_cleaning_total_error.png": {
+    "vendor_name": "Demo Cleaning Services",
+    "invoice_number": "DCS-1093",
+    "invoice_date": "2026-10-12",
+    "currency": "BHD",
+    "subtotal": 300.0,
+    "vat_amount": 30.0,
+    "total": 350.0,
+    "confidence": 0.96,
+    "notes": null
+  },
+  "inv_04_demo_supplies_duplicate.png": {
+    "vendor_name": "Demo Supplies W.L.L.",
+    "invoice_number": "INV-2026-0412",
+    "invoice_date": "2026-10-03",
+    "currency": "BHD",
+    "subtotal": 450.0,
+    "vat_amount": 45.0,
+    "total": 495.0,
+    "confidence": 0.96,
+    "notes": null
+  },
+  "inv_05_demo_cooling_bilingual.pdf": {
+    "vendor_name": "Demo Cooling & AC Co.",
+    "invoice_number": "AC-5520",
+    "invoice_date": "2026-10-21",
+    "currency": "BHD",
+    "subtotal": 2500.0,
+    "vat_amount": 250.0,
+    "total": 2750.0,
+    "confidence": 0.96,
+    "notes": null
+  }
+}

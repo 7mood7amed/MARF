@@ -1,0 +1,6 @@
+-r requirements.txt
+pytest>=8
+# only needed to regenerate the sample invoices (scripts/make_samples.py)
+Pillow>=10
+arabic-reshaper>=3.0
+python-bidi>=0.5
